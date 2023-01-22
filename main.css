@@ -1,4 +1,6 @@
 body {
+    background-image: url(images/background.jpg);
+    background-size: 100vw 100vh;
     font-family: 'Comfortaa', cursive;
 }
 h1, h2, h3, h4, h5, h6{
@@ -6,4 +8,24 @@ h1, h2, h3, h4, h5, h6{
 }
 .intro {
     font-family: 'Abel', sans-serif;
+}
+/* Main stylings  */
+.centre {
+    text-align: center;
+}
+.setone {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    color: #f1faee;
+}
+.valhalla {
+    text-decoration: none;
+    color: #4cc9f0;
+}
+.valhalla:hover {
+    color: #f72585;
+}
+.intro {
+    color: #f1faee;
 }
