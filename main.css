@@ -16,8 +16,8 @@ h1, h2, h3, h4, h5, h6{
 .setone {
     margin: 0;
     padding: 0;
-    font-size: 24px;
-    color: #f1faee;
+    font-size: 35px;
+    color: #b9faf8;
 }
 .valhalla {
     text-decoration: none;
@@ -27,5 +27,41 @@ h1, h2, h3, h4, h5, h6{
     color: #f72585;
 }
 .intro {
-    color: #f1faee;
+    color: #b9faf8;
+    text-align: center;
+}
+h4 {
+    color: #90e0ef;
+    font-size: 25px;
+}
+img {
+    width: 25vw;
+    display: inline-block;
+    margin-left: 2vw;
+    border-radius: 2%;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    text-align: left;
+}
+li {
+    color: #e8eddf;
+    line-height: 30px;
+    font-size: 20px;
+}
+.recipe {
+    color: #e8eddf;
+}
+
+
+footer {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #4cc9f0;
+}
+a:hover {
+    color: #f72585
 }
